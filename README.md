@@ -55,13 +55,8 @@
     <a href="https://tr.reactjs.org/" target="_blank"> 
     <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="javascript" width="40" height="40"/> 
   </a>
- 
-
-</p>
-
- 
+</p> 
 <p align="left">
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -76,16 +71,15 @@ Here are some ideas to get you started:
  <h3 align="left">Connect with me:</h3>
   </a>
     <!--Personel Blog-->
-     <a href="https://" target="_blank"> 
+     <a href="https://mfcblog.me/" target="_blank"> 
     <img src="https://icon-library.com/images/icon-for-blog/icon-for-blog-28.jpg" alt="javascript" width="40" height="40"/> 
   </a>
-
   <!--Linkedin-->
-    <a href="https://www.linkedin.com/" target="_blank"> 
+    <a href="https://www.linkedin.com/in/muhammed-fatih-ceylan/" target="_blank"> 
     <img src="https://cdn.icon-icons.com/icons2/2037/PNG/512/in_linked_linkedin_media_social_icon_124259.png" alt="linkedin" width="40" height="40"/> 
   </a>
    <!--HackerRank-->
-     <a href="https://www.hackerrank.com/" target="_blank"> 
+     <a href="https://www.hackerrank.com/mfatihceylan87" target="_blank"> 
     <img src="https://cdn.icon-icons.com/icons2/2389/PNG/128/hackerrank_logo_icon_145206.png" alt="hackerrank" width="40" height="40"/> 
   </a>
    <!--CoderByte-->
