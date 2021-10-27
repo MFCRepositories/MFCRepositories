@@ -79,15 +79,16 @@ Here are some ideas to get you started:
      <a href="https://" target="_blank"> 
     <img src="https://icon-library.com/images/icon-for-blog/icon-for-blog-28.jpg" alt="javascript" width="40" height="40"/> 
   </a>
+
   <!--Linkedin-->
     <a href="https://www.linkedin.com/" target="_blank"> 
-    <img src="https://cdn.icon-icons.com/icons2/2037/PNG/512/in_linked_linkedin_media_social_icon_124259.png" alt="javascript" width="40" height="40"/> 
+    <img src="https://cdn.icon-icons.com/icons2/2037/PNG/512/in_linked_linkedin_media_social_icon_124259.png" alt="linkedin" width="40" height="40"/> 
   </a>
    <!--HackerRank-->
      <a href="https://www.hackerrank.com/" target="_blank"> 
-    <img src="https://cdn.icon-icons.com/icons2/2389/PNG/128/hackerrank_logo_icon_145206.png" alt="javascript" width="40" height="40"/> 
+    <img src="https://cdn.icon-icons.com/icons2/2389/PNG/128/hackerrank_logo_icon_145206.png" alt="hackerrank" width="40" height="40"/> 
   </a>
    <!--CoderByte-->
      <a href="https://coderbyte.com/" target="_blank"> 
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmHa18snSaCG6haGzaKWfmzMXn6Ach0y3_5A&amp;usqp=CAU" alt="javascript" width="40" height="40"/> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmHa18snSaCG6haGzaKWfmzMXn6Ach0y3_5A&amp;usqp=CAU" alt="coderbyte" width="40" height="40"/> 
   </a>
