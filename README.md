@@ -80,7 +80,7 @@ Here are some ideas to get you started:
   </a>
    <!--HackerRank-->
      <a href="https://www.hackerrank.com/mfatihceylan87" target="_blank"> 
-    <img src="https://cdn.icon-icons.com/icons2/2389/PNG/128/hackerrank_logo_icon_145206.png" alt="hackerrank" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/600px-HackerRank_logo.png" alt="hackerrank" width="40" height="40"/> 
   </a>
    <!--CoderByte-->
      <a href="https://coderbyte.com/" target="_blank"> 
