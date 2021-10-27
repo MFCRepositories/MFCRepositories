@@ -1,5 +1,5 @@
 <p> 
- <h2 align="center">Hi I'm Mahmut & Full Stack Developer</h2></p>
+ <h2 align="center">Hi I'm Muhammed Fatih Ceylan & Full Stack Developer</h2></p>
 
  <img src="https://github.com/MahmutGuleryuz/MahmutGuleryuz/blob/main/background.png" alt="csharp" width="1600" height="250"/> 
 <h3 align="left">Languages and Tools:</h3>
@@ -61,7 +61,7 @@
 
  
 <p align="left">
-**MahmutGuleryuz/MahmutGuleryuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MFCRepositories/MFCRepositories** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
