@@ -76,3 +76,6 @@
      <a href="https://coderbyte.com/" target="_blank"> 
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmHa18snSaCG6haGzaKWfmzMXn6Ach0y3_5A&amp;usqp=CAU" alt="coderbyte" width="40" height="40"/> 
   </a>
+  <a target="blank" href="https://verified.cv/en/verify/43245733953006?ref=email">
+      <img src="https://verified-bucket.s3.eu-central-1.amazonaws.com/cert/43245733953006.png" alt="">
+    </a>
