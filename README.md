@@ -79,6 +79,9 @@
   <a target="blank" href="https://verified.cv/en/verify/43245733953006?ref=email">
       <img src="https://verified-bucket.s3.eu-central-1.amazonaws.com/cert/43245733953006.png" alt="">
     </a>
+      <p align="left">
+  <h3 align="left">Certificates:</h3>
+  </p>
     <!--Vektorel Akademi-->
      <a href="https://www.vektorelakademi.com/?redirect=0" target="_blank"> 
     <img src="https://yt3.ggpht.com/ytc/AKedOLQ2ouXeYP8ek3DB0gW-YGtbkAaNPY2WAfiuUR9C=s88-c-k-c0x00ffffff-no-rj" alt="vektorelAkademi" width="40" height="40"/> 
