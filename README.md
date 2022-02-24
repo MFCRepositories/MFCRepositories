@@ -79,7 +79,15 @@
   <a target="blank" href="https://verified.cv/en/verify/43245733953006?ref=email">
       <img src="https://verified-bucket.s3.eu-central-1.amazonaws.com/cert/43245733953006.png" alt="">
     </a>
-    <!--TechCareer.Net-->
+    <!--Vektorel Akademi-->
+     <a href="https://www.vektorelakademi.com/?redirect=0" target="_blank"> 
+    <img src="https://yt3.ggpht.com/ytc/AKedOLQ2ouXeYP8ek3DB0gW-YGtbkAaNPY2WAfiuUR9C=s88-c-k-c0x00ffffff-no-rj" alt="javascript" width="40" height="40"/> 
+  </a>
+     <!--Patika Akademi-->
+     <a href="https://verified.cv/en/verify/23492368666111?ref=email" target="_blank"> 
+    <img src="https://avatars.githubusercontent.com/u/92598857?s=64&v=4" alt="patikainavitas" width="40" height="40"/> 
+  </a>
+      <!--TechCareer.Net-->
      <a href="https://github.com/DeryaUnverr/DeryaUnverr/blob/main/TechCareer.Net-%20Derya%20%C3%9Cnver.pdf" target="_blank"> 
     <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQFSHJSqIzsWeQ/company-logo_100_100/0/1633345580101?e=1653523200&v=beta&t=bPVsGrs3a1R2a_99G5bkVf7IDQX8ChOAtMYFfsROYow" alt="techcareer.Net" width="40" height="40"/> 
   </a>
