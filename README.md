@@ -2,6 +2,12 @@
  <h2 align="center">Hi :wave::star_struck:, I'm Muhammed Fatih & Full Stack Developer</h2></p>
 
  <img src="https://github.com/MFCRepositories/MFCRepositories/blob/main/banner.png" alt="csharp" width="1700" height="300"/> 
+ <p align="left">
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on EntityFramework Core, LinQ
+- 🌱 I’m currently learning EntityFramework Core, LinQ, MVC, JavaScript, Node.js etc.
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
  
