@@ -79,3 +79,7 @@
   <a target="blank" href="https://verified.cv/en/verify/43245733953006?ref=email">
       <img src="https://verified-bucket.s3.eu-central-1.amazonaws.com/cert/43245733953006.png" alt="">
     </a>
+    <!--TechCareer.Net-->
+     <a href="https://github.com/DeryaUnverr/DeryaUnverr/blob/main/TechCareer.Net-%20Derya%20%C3%9Cnver.pdf" target="_blank"> 
+    <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQFSHJSqIzsWeQ/company-logo_100_100/0/1633345580101?e=1653523200&v=beta&t=bPVsGrs3a1R2a_99G5bkVf7IDQX8ChOAtMYFfsROYow" alt="techcareer.Net" width="40" height="40"/> 
+  </a>
