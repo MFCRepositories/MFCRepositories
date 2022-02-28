@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on EntityFramework Core, LinQ
-- 🌱 I’m currently learning EntityFramework Core, LinQ, MVC, JavaScript, Node.js etc.
+- 🌱 I’m currently learning EntityFramework Core, LinQ, MVC, JavaScript 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
