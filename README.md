@@ -14,12 +14,8 @@ Here are some ideas to get you started:
  <!--C#-->
   <a href="https://www.w3schools.com/cs/" target="_blank"> 
     <img src="https://cdn-icons-png.flaticon.com/512/381/381704.png" alt="csharp" width="40" height="40"/> 
-  </a> 
+  </a>  
  
- <!--NodeJs-->
-  <a href="https://nodejs.org/en/" target="_blank">      
-    <img src="https://bachasoftware.com/wp-content/uploads/elementor/thumbs/nodejslogo-p3zvdhaajh0bxurlgqp1gszveuzuf58gd4auf7uve8.png" alt="django" width="40" height="40"/> 
-  </a> 
 <!--MsSql-->
   <a href="https://www.w3schools.com/cs/" target="_blank"> 
     <img src="https://cdn.iconscout.com/icon/free/png-256/sql-4-190807.png" alt="csharp" width="40" height="40"/> 
